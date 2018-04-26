@@ -1,0 +1,5 @@
+0
+LATA (2,1) Vertical, Abajo
+LOCO (0,0) Error
+MESAS (0,0) Error
+MAMA (0,0) Error
